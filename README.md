@@ -10,4 +10,5 @@ Official Smart Contract of EverSAFU
  * Whitepaper : docs.eversafu.com
  * Twitter : twitter.com/EverSafu
  * Telegram : t.me/eversafubsc
+ * 
  */
